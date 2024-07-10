@@ -16,3 +16,6 @@ Wine 8.0 or more
 # Module CODENAME
 Mountain of Faith
 
+# New Version Notice
+The new version which improved compatibility and stablilty is AVAILABLE AT " https://github.com/hiroki-repo/Gocaine-xtajit-3.0 "! The new version compatible with more apps than this version!
+
